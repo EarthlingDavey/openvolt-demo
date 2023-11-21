@@ -1,0 +1,16 @@
+{
+  "name": "openvolt-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:EarthlingDavey/openvolt-demo.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsx index.ts",
+    "dev:watch": "tsx watch index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.1",
+    "tsx": "^4.1.3"
+  },
+  "dependencies": {}
+}
